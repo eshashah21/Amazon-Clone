@@ -1,4 +1,4 @@
-Amazon Clone
+<b>Amazon Clone<b>
 <br>
 Project Description:
 Welcome to Amazon Clone – a clone project developed with the guidance of a YouTube Channel and enriched with additional features by @eshashah21. This project showcases my proficiency in HTML and CSS, serving as a testament to my web development skills.
