@@ -1,4 +1,4 @@
-<b>Amazon Clone<b>
+<h2>Amazon Clone</h2>
 <br>
 <br>
 <b>Project Description:</b>
@@ -9,7 +9,9 @@ Welcome to Amazon Clone – a clone project developed with the guidance of a You
 <b>Features:</b>
 <br>
 <b> Clone Foundation: </b>Built upon the foundations provided by the tutorial, this project faithfully replicates the original with precision.
+<br>
 <b> Custom Enhancements: </b>In addition to the core features, I've implemented several enhancements to elevate the user experience and functionality.
+<br>
 <b> Personal Touch: </b>Every line of code reflects my dedication to detail and my commitment to continuous improvement.
 <br>
 <br>
