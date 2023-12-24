@@ -15,4 +15,5 @@ Welcome to Amazon Clone – a clone project developed with the guidance of a You
 <b> Technologies Used: </b>
 <br>
 <b> HTML: </b>The backbone of the project, ensuring structure and semantics.
+<br>
 <B> CSS: </B>Styling to perfection, creating an aesthetically pleasing and responsive user interface.
